@@ -25,3 +25,5 @@
 
 * Introduction
 
+ - [[https://www.openshift.com/][OpenShift]] | Home
+ - [[https://docs.openshift.com/container-platform/3.3/install_config/install/planning.html][Planning - Installing a Cluster]] | OpenShift
