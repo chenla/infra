@@ -1,0 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Chef Server
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/infra/infra-chef.org
+  :Created:   2017-06-08T18:13@Prek Leap (11.642600N-104.919210W)
+  :ID:        2a796488-3b92-400a-b9ae-c57ac33b6db1
+  :VER:       550192446.269458576
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:THE8-6080
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
