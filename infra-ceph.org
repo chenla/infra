@@ -26,6 +26,8 @@
 * Introduction
 
   - [[http://ceph.com/][Ceph]] | Home
+  - [[https://github.com/rook/rook][rook/rook: Open, Cloud Native, and Universal Distributed Storage]] | GitHub
+
 
 Ceph provides scalable cloud storage clusters that provides block,
 object and file system storage.
