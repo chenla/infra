@@ -25,4 +25,6 @@
 
 * Introduction
 
+ - [[https://www.chef.io/][Chef]] | Home
+ - [[https://learn.chef.io/#/][Learn Chef]] | Home
  - [[https://github.com/c-buisson/chef-server][c-buisson/chef-server: Chef-server container for Docker]] | Ubuntu
