@@ -27,4 +27,5 @@
 
  - [[https://www.chef.io/][Chef]] | Home
  - [[https://learn.chef.io/#/][Learn Chef]] | Home
+ - [[https://www.bonusbits.com/wiki/HowTo:Install_Chef_Server_on_CentOS][Install Chef Server on CentOS]] | Bonus Bits
  - [[https://github.com/c-buisson/chef-server][c-buisson/chef-server: Chef-server container for Docker]] | Ubuntu
