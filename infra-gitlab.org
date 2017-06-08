@@ -25,3 +25,9 @@
 
 * Introduction
 
+
+I have my misgivings about using GitLab, I would prefer to use
+gitolite or something similar.  But GitLab provides contributors with
+a gui and their issue tracker is not half bad...
+
+  - [[https://about.gitlab.com/][GitLab]] | Home
