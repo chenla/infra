@@ -27,6 +27,7 @@
 
  - [[./infra-ldap.org][LDAP]]
  - [[./infra-openshift.org][Openshift]]
+ - [[./infra-kubernetes.org][Kubernetes]]
  - [[./infra-docker.org][Docker]]
  - [[./infra-gitlab.org][Gitlab]]
  - [[./infra-chef.org][Chef]]
