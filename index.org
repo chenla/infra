@@ -29,5 +29,5 @@
  - [[./infra-openshift.org][Openshift]]
  - Docker
  - [[./infra-gitlab.org][Gitlab]]
- - Chef
+ - [[./infra-chef.org][Chef]]
  - [[./infra-ceph.org][Ceph]]
