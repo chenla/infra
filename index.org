@@ -30,4 +30,4 @@
  - Docker
  - Gitlab
  - Chef
- - Ceph
+ - [[./infra-ceph.org][Ceph]]
