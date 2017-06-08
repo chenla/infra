@@ -31,3 +31,4 @@ gitolite or something similar.  But GitLab provides contributors with
 a gui and their issue tracker is not half bad...
 
   - [[https://about.gitlab.com/][GitLab]] | Home
+  - [[https://docs.gitlab.com/ee/administration/auth/ldap.html][LDAP]] | GitLab Documentation
