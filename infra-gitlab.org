@@ -1,0 +1,32 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: GitLab
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/infra/infra-gitlab.org
+  :Created:   2017-06-08T17:54@Prek Leap (11.642600N-104.919210W)
+  :ID:        35ca4e94-1784-4e46-a2d1-0c1d39f1ae67
+  :VER:       550191319.991176937
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:NPL6-5637
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
+I have my misgivings about using GitLab, I would prefer to use
+gitolite or something similar.  But GitLab provides contributors with
+a gui and their issue tracker is not half bad...
+
+  - [[https://about.gitlab.com/][GitLab]] | Home
