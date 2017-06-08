@@ -1,0 +1,43 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: LDAP Server
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/infra/infra-ldap.org
+  :Created:   2017-06-08T17:27@Prek Leap (11.642600N-104.919210W)
+  :ID:        512b5dbf-ddea-4c56-a200-3c77a9bc820d
+  :VER:       550189685.059075230
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:VXV2-5745
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
+We will be using OpenLDAP, GOsa and possibly the MediaWiki Striker
+python scripts to provide a system-wide account and authentication
+service.  Everything will run in Docker containers.
+
+
+ - [[https://oss.gonicus.de/labs/gosa/][GOsa]] | LDAP Admin Front End
+ - [[https://www.linux.com/news/linux-ldap-authentication][Linux LDAP authentication]] | Linux.com
+ - [[http://www.openldap.org/][OpenLDAP]] | Home
+ - [[https://github.com/osixia/docker-openldap][osixia/docker-openldap: A docker image to run OpenLDAP 🐳]] | GitHub
+ - [[https://github.com/fonk/docker-gosa][fonk/docker-gosa]] | GitHub
+ - [[https://hub.docker.com/r/fonk/gosa/][fonk/gosa]] | Docker Hub
+
+
+ - [[https://phabricator.wikimedia.org/source/labs-striker/][labs-striker]] | WikiMedia - Django web interface for user accounts
+
+ - [[https://en.wikipedia.org/wiki/List_of_LDAP_software][List of LDAP software]] | Wikipedia
