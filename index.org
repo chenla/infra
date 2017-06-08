@@ -28,6 +28,6 @@
  - [[./infra-ldap.org][LDAP]]
  - [[./infra-openshift.org][Openshift]]
  - Docker
- - Gitlab
+ - [[./infra-gitlab.org][Gitlab]]
  - Chef
  - [[./infra-ceph.org][Ceph]]
