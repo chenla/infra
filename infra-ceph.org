@@ -25,3 +25,8 @@
 
 * Introduction
 
+  - [[http://ceph.com/][Ceph]] | Home
+
+Ceph provides scalable cloud storage clusters that provides block,
+object and file system storage.
+
