@@ -26,7 +26,7 @@
 * Table of Contents
 
  - [[./infra-ldap.org][LDAP]]
- - Openshift
+ - [[./infra-openshift.org][Openshift]]
  - Docker
  - Gitlab
  - Chef
