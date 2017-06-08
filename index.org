@@ -27,7 +27,8 @@
 
  - [[./infra-ldap.org][LDAP]]
  - [[./infra-openshift.org][Openshift]]
- - Docker
+ - [[./infra-docker.org][Docker]]
  - [[./infra-gitlab.org][Gitlab]]
  - [[./infra-chef.org][Chef]]
  - [[./infra-ceph.org][Ceph]]
+ - IPFS
