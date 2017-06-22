@@ -1,10 +1,26 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
 * Infrastructure
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/infra/README.org
+  :Created:   2017-06-22T11:30@Prek Leap (11.642600N-104.919210W)
+  :ID:        27e45fc6-0fe9-4b08-81fd-084a7a093151
+  :VER:       551377918.216349937
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:YXL1-4365
+  :Category:  deploy
+  :Entity:    readme
+  :Status:    stub
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
 [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
 
 This repos contains all of the literate orgmode source files for
 setting up d9d container cloud infrastructure and various other
