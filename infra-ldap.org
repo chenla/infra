@@ -1,27 +1,28 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: LDAP Server
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/infra/infra-ldap.org
-  :Created:   2017-06-08T17:27@Prek Leap (11.642600N-104.919210W)
-  :ID:        512b5dbf-ddea-4c56-a200-3c77a9bc820d
-  :VER:       550189685.059075230
-  :GEO:       48P-491193-1287029-15
-  :BXID:      proj:VXV2-5745
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/infra/infra-ldap.org
+:Created:   2017-06-08T17:27@Prek Leap (11.642600N-104.919210W)
+:ID:        512b5dbf-ddea-4c56-a200-3c77a9bc820d
+:VER:       551926019.031700531
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:UDN6-6510
+:Class:     deploy
+:Type:      work
+:Status:    stub
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 * Introduction
 
