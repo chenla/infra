@@ -1,27 +1,28 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Docker
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/infra/infra-docker.org
-  :Created:   2017-06-08T18:22@Prek Leap (11.642600N-104.919210W)
-  :ID:        daad2587-f20a-45cb-968d-875c9af54395
-  :VER:       550192995.048878508
-  :GEO:       48P-491193-1287029-15
-  :BXID:      proj:NAT2-0187
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/infra/infra-docker.org
+:Created:   2017-06-08T18:22@Prek Leap (11.642600N-104.919210W)
+:ID:        daad2587-f20a-45cb-968d-875c9af54395
+:VER:       551925352.079654484
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:JUY0-3440
+:Class:     deploy
+:Type:      work
+:Status:    stub
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 * Introduction
 
