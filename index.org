@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Chenla d9d
+#+TITLE: Chenla d9d | TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -12,13 +12,13 @@
 :VER:       551924066.565622184
 :GEO:       48P-491193-1287029-15
 :BXID:      proj:PQY5-6057
-:Class:     deploy
+:Class:     docs
 :Type:      toc
 :Status:    wip
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-* Table of Contents
+* Chenla d9d | Table of Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
