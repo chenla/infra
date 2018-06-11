@@ -26,3 +26,9 @@ This repos contains all of the literate orgmode source files for
 setting up d9d container cloud infrastructure and various other
 services.
 
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/infra]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/infra]]
